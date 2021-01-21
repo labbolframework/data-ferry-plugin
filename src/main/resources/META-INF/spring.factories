@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.labbol.product.dataferry.plugin.configuration.DataFerryPluginConfiguration,\
+com.labbol.product.dataferry.plugin.configuration.xml.XMLDataFerryPluginConfiguration,\
+com.labbol.product.dataferry.plugin.configuration.DataFerryPluginRabbitMQConfiguration
